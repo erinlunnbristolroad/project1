@@ -1,1 +1,7 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="led_select" id="19" inline="true" x="55" y="56">
+    <field name="ACTION">OFF</field>
+  </block>
+  <block type="movement_forward" id="10" x="103" y="93"></block>
+  <block type="oled_cleardisplay" id="28" x="77" y="123"></block>
+</xml>
